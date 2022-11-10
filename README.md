@@ -4,4 +4,4 @@
 - css
 - js
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
